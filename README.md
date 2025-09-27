@@ -62,7 +62,7 @@ Trabajo práctico aplicando C++ a GUI.
 - [EJs-Informatica-I](https://github.com/ebelmonteutn/EJs-Informatica-I) – Refuerzo de fundamentos y lógica.  
 
 #### 5. Repos VHDL / Digital
-- [TPs-TD1](https://github.com/ebelmonteutn/TPs-TD1) – Trabajos prácticos de Teoría Digital I: implementación en VHDL de módulos combinacionales y secuenciales (contadores, divisores, registros, decodificadores), experimentación con FSM básicas y testbenches de verificación.
+- [vhdl-cores](https://github.com/ebelmonteutn/vhdl-cores) – Colección modular de bloques VHDL educativos (ALU, UART, PC, contadores, rotador, puertos de E/S). Enfocado en buenas prácticas (paquetes, testbenches, futura integración tipo CPU educativa).
 
 ---
 
