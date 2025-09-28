@@ -41,8 +41,10 @@ Apasionado por entender cómo funciona un sistema desde la capa más baja: regis
 #### 1. Kernel educativo ARM – [armv7a-minikernel](https://github.com/ebelmonteutn/armv7a-minikernel)
 Exploración de conceptos de muy bajo nivel en ARMv7-A.  
 - Organización de secciones y memoria.  
-- Interacción con registros y flujo de arranque.  
-- Base para futuros módulos (interrupciones / scheduler simple).  
+- Interacción con registros y flujo de arranque.
+- Interrupciones
+- Scheduler simple
+- Base para futuros módulos (Manejo de memoria).  
 **Enfoque:** Comprender arquitectura y etapas iniciales de un sistema.
 
 #### 2. Librería de Footprints PCB – [myLibreria_PCB](https://github.com/ebelmonteutn/myLibreria_PCB)
