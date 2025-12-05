@@ -48,7 +48,7 @@ Exploración de conceptos de muy bajo nivel en ARMv7-A.
 **Enfoque:** Comprender arquitectura y etapas iniciales de un sistema.
 
 #### 2. Librería de Footprints PCB – [myLibreria_PCB](https://github.com/ebelmonteutn/myLibreria_PCB)
-Componentes reutilizables para acelerar diseño de placas.  
+Componentes reutilizables para Altium Designer que aceleran el diseño de placas.  
 - Estandarización de naming y estructura.  
 - Consistencia entre proyectos.  
 **Enfoque:** Productividad y orden en diseño electrónico.
