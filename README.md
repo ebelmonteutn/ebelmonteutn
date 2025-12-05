@@ -47,23 +47,30 @@ Exploración de conceptos de muy bajo nivel en ARMv7-A.
 - Base para futuros módulos (Manejo de memoria).  
 **Enfoque:** Comprender arquitectura y etapas iniciales de un sistema.
 
-#### 2. Librería de Footprints PCB – [myLibreria_PCB](https://github.com/ebelmonteutn/myLibreria_PCB)
-Componentes reutilizables para Altium Designer que aceleran el diseño de placas.  
+#### 2. TP ADC (Técnicas Digitales II) – [TP_ADC_TD2](https://github.com/ebelmonteutn/TP_ADC_TD2)
+Trabajo práctico sobre conversión analógico-digital.  
+- Implementación y análisis de convertidores ADC.  
+- Aplicación de conceptos de muestreo y cuantización.  
+- Análisis de señales digitalizadas.  
+**Enfoque:** Fundamentos de conversión A/D y procesamiento digital de señales.
+
+#### 3. Librería de Footprints PCB – [myLibreria_PCB](https://github.com/ebelmonteutn/myLibreria_PCB)
+Componentes de Altium reutilizables para acelerar diseño de placas.  
 - Estandarización de naming y estructura.  
 - Consistencia entre proyectos.  
 **Enfoque:** Productividad y orden en diseño electrónico.
 
-#### 3. Interfaz Académica Qt – [TPO_Qt](https://github.com/ebelmonteutn/TPO_Qt)
+#### 4. Interfaz Académica Qt – [TPO_Qt](https://github.com/ebelmonteutn/TPO_Qt)
 Trabajo práctico aplicando C++ a GUI.  
 - Modularidad básica.  
 - Separación lógica / visual.  
 **Enfoque:** Extender C++ más allá de consola.
 
-#### 4. Repos de Práctica en C
+#### 5. Repos de Práctica en C
 - [TPs-Informatica-I](https://github.com/ebelmonteutn/TPs-Informatica-I) – Entregas estructuradas.  
 - [EJs-Informatica-I](https://github.com/ebelmonteutn/EJs-Informatica-I) – Refuerzo de fundamentos y lógica.  
 
-#### 5. Repos VHDL / Digital
+#### 6. Repos VHDL / Digital
 - [vhdl-cores](https://github.com/ebelmonteutn/vhdl-cores) – Colección modular de bloques VHDL educativos (ALU, UART, PC, contadores, rotador, puertos de E/S). Enfocado en buenas prácticas (paquetes, testbenches, futura integración tipo CPU educativa).
 
 ---
