@@ -55,7 +55,7 @@ Trabajo práctico sobre conversión analógico-digital.
 **Enfoque:** Fundamentos de conversión A/D y procesamiento digital de señales.
 
 #### 3. Librería de Footprints PCB – [myLibreria_PCB](https://github.com/ebelmonteutn/myLibreria_PCB)
-Componentes reutilizables para acelerar diseño de placas.  
+Componentes de Altium reutilizables para acelerar diseño de placas.  
 - Estandarización de naming y estructura.  
 - Consistencia entre proyectos.  
 **Enfoque:** Productividad y orden en diseño electrónico.
