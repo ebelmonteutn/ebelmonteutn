@@ -28,7 +28,7 @@ Apasionado por entender cómo funciona un sistema desde la capa más baja: regis
 **Stack Científico / Análisis:** NumPy, SciPy, Pandas, Matplotlib, Seaborn (tratamiento básico de señales, análisis exploratorio y visualización).  
 
 **Bajo Nivel / Conceptos:** Kernel mínimo educativo (ARMv7-A), organización de memoria, registros, boot básico, separación modular de componentes.  
-**Hardware / Electrónica:** Altium Designer (librerías y footprints propios), microcontroladores, fundamentos de VHDL, mantenimiento e instrumentación, verificación básica de hardware.  
+**Hardware / Electrónica:** Altium Designer (librerías y footprints propios), KiCad, microcontroladores, fundamentos de VHDL, mantenimiento e instrumentación, verificación básica de hardware.  
 **Sistemas Operativos:** Linux (uso académico / compilación), Windows.  
 **Redes:** Fundamentos (Cisco Networking Essentials).  
 **IT / Soporte:** Diagnóstico HW/SW, Microsoft 365, soporte a usuarios, organización de tareas.  
