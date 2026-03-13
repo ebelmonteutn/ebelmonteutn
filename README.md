@@ -5,8 +5,6 @@ Enfocado en <strong>firmware, programación de bajo nivel, análisis de señales
 </p>
 
 <p align="center">
-<a href="mailto:enzobelmonte2003@gmail.com">📧 Email Personal</a> •
-<a href="mailto:ebelmonte@frba.utn.edu.ar">🎓 Email Institucional</a> •
 <a href="https://www.linkedin.com/in/enzo-nicolas-belmonte-3b3369232" target="_blank">💼 LinkedIn</a>
 </p>
 
@@ -116,8 +114,6 @@ Ingresar a un rol trainee / junior en firmware o IT técnico donde pueda aportar
 ---
 
 ### 📫 Contacto
-- Email personal: enzobelmonte2003@gmail.com  
-- Email institucional: ebelmonte@frba.utn.edu.ar  
 - LinkedIn: [Enzo Nicolás Belmonte](https://www.linkedin.com/in/enzo-nicolas-belmonte-3b3369232)
 
 ---
