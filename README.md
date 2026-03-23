@@ -20,7 +20,7 @@ Apasionado por entender cómo funciona un sistema desde la capa más baja: regis
 **Lenguajes (nivel):**  
 - C / C++: Alto  
 - Ensamblador ARM: Básico–Intermedio  
-- Python: Básico (scripts, automatización y análisis con NumPy / SciPy / Pandas / Matplotlib / Seaborn para señales, sistemas, circuitos y visualización)  
+- Python: Intermedio (scripts, automatización y análisis con NumPy / SciPy / Pandas / Matplotlib / Seaborn para señales, sistemas, circuitos y visualización)  
 - Matlab: Uso académico (análisis y cálculo)  
 
 **Stack Científico / Análisis:** NumPy, SciPy, Pandas, Matplotlib, Seaborn (tratamiento básico de señales, análisis exploratorio y visualización).  
@@ -100,7 +100,7 @@ Trabajo práctico aplicando C++ a GUI.
 ---
 
 ### 🎯 Objetivo Profesional
-Ingresar a un rol trainee / junior en firmware o IT técnico donde pueda aportar bases en electrónica + programación + análisis, y seguir subiendo en complejidad bajo la guía de un equipo experimentado.
+Ingresar a un rol trainee / junior en firmware, FPGA o IT técnico donde pueda aportar bases en electrónica + programación + análisis, y seguir subiendo en complejidad bajo la guía de un equipo experimentado.
 
 ---
 
