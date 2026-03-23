@@ -71,7 +71,7 @@ Estudio del comportamiento de un regulador DC/DC bajo radiación en colaboració
 - Presentado en el 6° Workshop Internacional de Física Electrónica y Desarrollo Espacial.
 **Enfoque:** Instrumentación, adquisición de datos y análisis en entorno nuclear real.
 
-#### 6. Filtrado IIR para comunicaciones satelitales – UTN FRBA
+#### 6. Filtrado IIR para comunicaciones satelitales – UTN FRBA - [filtrado-iir-satelital](https://github.com/ebelmonteutn/filtrado-iir-satelital)
 Desarrollo de filtros Chebyshev paso alto y bajo en Python para mejora de voz en canales satelitales.
 - Modelado del canal con interferencias y ruido espacial.
 - Análisis espectral y validación del desempeño sobre señales reales.
