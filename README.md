@@ -64,11 +64,24 @@ Trabajo práctico aplicando C++ a GUI.
 - Separación lógica / visual.  
 **Enfoque:** Extender C++ más allá de consola.
 
-#### 5. Repos de Práctica en C
+#### 5. Irradiación de regulador LM2596 en reactor RA-1 – [regulador-lm2596-cnea](https://github.com/ebelmonteutn/regulador-lm2596-cnea)
+Estudio del comportamiento de un regulador DC/DC bajo radiación en colaboración con la CNEA.
+- Sistema de adquisición basado en ADC con monitoreo en tiempo real.
+- Análisis pre y post irradiación con Python.
+- Presentado en el 6° Workshop Internacional de Física Electrónica y Desarrollo Espacial.
+**Enfoque:** Instrumentación, adquisición de datos y análisis en entorno nuclear real.
+
+#### 6. Filtrado IIR para comunicaciones satelitales – UTN FRBA
+Desarrollo de filtros Chebyshev paso alto y bajo en Python para mejora de voz en canales satelitales.
+- Modelado del canal con interferencias y ruido espacial.
+- Análisis espectral y validación del desempeño sobre señales reales.
+**Enfoque:** Procesamiento digital de señales aplicado a comunicaciones espaciales.
+
+#### 7. Repos de Práctica en C
 - [TPs-Informatica-I](https://github.com/ebelmonteutn/TPs-Informatica-I) – Entregas estructuradas.  
 - [EJs-Informatica-I](https://github.com/ebelmonteutn/EJs-Informatica-I) – Refuerzo de fundamentos y lógica.  
 
-#### 6. Repos VHDL / Digital
+#### 8. Repos VHDL / Digital
 - [vhdl-cores](https://github.com/ebelmonteutn/vhdl-cores) – Colección modular de bloques VHDL educativos (ALU, UART, PC, contadores, rotador, puertos de E/S). Enfocado en buenas prácticas (paquetes, testbenches, futura integración tipo CPU educativa).
 
 ---
