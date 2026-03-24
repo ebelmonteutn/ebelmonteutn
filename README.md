@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! Soy Enzo Belmonte 👋</h1>
+<h1 align="center">¡Hola! Soy Enzo Belmonte</h1>
 <p align="center">
-Estudiante avanzado de <strong>Ingeniería Electrónica (UTN FRBA)</strong><br/>
-Enfocado en <strong>firmware, programación de bajo nivel, análisis de señales y diseño electrónico</strong>.
+Estudiante avanzado de Ingeniería Electrónica (UTN FRBA)<br/>
+Embedded Systems | Firmware (C/C++ | ARM) | Signal Processing
 </p>
 
 <p align="center">
